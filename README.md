@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data analyst| SQL & R expert
 ----------------------------
 
-I've been learning coding for three years. I started out with R then later learned SQL. I am currently learning Python.
+I've been learning coding for three years. I started with R then later learned SQL. I am currently learning Python.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [patomaina2002@gmail.com](mailto:patomaina2002@gmail.com)
