@@ -9,7 +9,7 @@ I've been learning coding for three years. I started with R then later learned S
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [patomaina2002@gmail.com](mailto:patomaina2002@gmail.com)
 * 🧠  I'm learning Pycharm, NumPy
-* ⚡  Light mode attracts bugs😂
+* ⚡  Dark mode attracts bugs😂
 
 ### Skills
 
